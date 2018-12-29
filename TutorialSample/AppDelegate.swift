@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TutorialSample
 //
-//  Created by aa367474 on 2018/12/29.
-//  Copyright © 2018年 aa367474. All rights reserved.
+//  Created by Daiki Kawanuma on 2018/12/29.
+//  Copyright © 2018年 Daiki Kawanuma. All rights reserved.
 //
 
 import UIKit

@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Alamofire-SwiftyJSON (3.0.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0.0)
+  - SwiftyJSON (4.0.0)
+  - XLPagerTabStrip (8.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.2)
+  - Alamofire-SwiftyJSON
+  - SwiftyJSON
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Alamofire-SwiftyJSON
+    - SwiftyJSON
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Alamofire-SwiftyJSON: 2b3649d57dc7bb2880fb8b86f8bb969397666916
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  XLPagerTabStrip: 22d4c58200d7c105e0e407ab6bfd01a5d85014be
+
+PODFILE CHECKSUM: 9d7c7bbea6303b6df90722523430dc718a525f17
+
+COCOAPODS: 1.5.3
